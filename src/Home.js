@@ -68,21 +68,21 @@ export const Mycr = () =>(
 >
   <div>
     <img
-      className="w-full h-[100vh] blur-sm opacity-90  "
+      className="w-full md:h-[100vh] h-[60vh] md:blur-sm opacity-90  "
       src={im1}
       alt="im1"
     />
   </div>
   <div>
     <img
-      className="w-full h-[100vh] blur-sm opacity-90  "
+      className="w-full md:h-[100vh] h-[50vh] md:blur-sm opacity-90  "
       src={im2}
       alt="im2"
     />
   </div>
   <div>
     <img
-      className="w-full h-[100vh] blur-sm opacity-90  "
+      className="w-full md:h-[100vh] h-[50vh] md:blur-sm opacity-90  "
       src={im3}
       alt="im2"
     />
