@@ -1,7 +1,7 @@
 import React from "react";
 import { Carousel } from "react-responsive-carousel";
 import im1 from "./images/im1.jpg";
-import im2 from "./images/im2.avif";
+import im2 from "./images/css.webp";
 import im3 from "./images/im3.png";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 
@@ -75,6 +75,7 @@ export const Mycr = () =>(
   </div>
   <div>
     <img
+  
       className="md:w-full md:h-[100vh] w-[60vw] h-[70vh] md:blur-sm opacity-90  "
       src={im2}
       alt="im2"
